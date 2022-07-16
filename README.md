@@ -9,3 +9,7 @@ Specific aim:
    c) Flagging and binning of residues specific to each pocket.
    d) Build a machine learning model for identifying native from non-native peptide class.
    e) Evaluate the model based on different metrics like accuracy, MCC.
+   
+Conclusion: 
+The model build using machine learning based approach for identification of antibiotic peptide binding pockets in proteins is found to be robust with an
+overall accuracy above 70% with RF outperforming all of the other models with an accuracy of 91% with a 10-fold MCC-CV of 91%.
