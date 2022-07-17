@@ -520,7 +520,7 @@ def mean_cal ():
     #df= pd.read_csv("2jq7_C_A_vector_dis.csv")
     #df = df.readlines()
     #df = pd.read_csv(file_1)
-    #a =file_1.split('/')[-1]
+    a =file_1.split('/')[-1]
     result =['a']
     df1 = df.replace(0, np.NaN)
     df_final = df1.mean().round(3)
