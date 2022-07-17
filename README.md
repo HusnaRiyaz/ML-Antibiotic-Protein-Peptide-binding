@@ -5,7 +5,7 @@ To build a machine learning based model for identification of Antibiotic Peptide
          
 Specific aim:
    a) Collection of antibiotic & non-antibiotic(Cancer, Viral) peptides from Propedia database.
-   b) Retrieving only residues that are within specified distance from the peptides.
+   b) Retrieving only residues that are within specified distance of 4Å from the peptides.
    c) Flagging and binning of residues specific to each pocket.
    d) Build a machine learning model for identifying native from non-native peptide class.
    e) Evaluate the model based on different metrics like accuracy, MCC.
